@@ -4,9 +4,18 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '**',
+        hostname: 'images.unsplash.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.mockapi.io',
+        port: '',
+        pathname: '/**',
       },
     ],
+    formats: ['image/avif', 'image/webp'],
   },
 };
 

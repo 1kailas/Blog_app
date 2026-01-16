@@ -99,7 +99,7 @@ export default function BlogGrid({ initialPosts }: BlogGridProps) {
           </svg>
           <h3 className="text-xl font-semibold text-gray-900 mb-2">No posts found</h3>
           <p className="text-gray-600 mb-6">
-            We couldn't find any posts matching your criteria.
+            We couldn&apos;t find any posts matching your criteria.
           </p>
           <button
             onClick={() => {
