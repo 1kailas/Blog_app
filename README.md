@@ -1,6 +1,6 @@
-# 🚀 Modern Blog - Next.js Blog Application
+# 🚀 BlogHub - Next.js Blog Application
 
-A full-fledged, modern blog application built with Next.js 14, featuring Server-Side Rendering (SSR), React Query, and a beautiful responsive UI with Tailwind CSS.
+A full-fledged, professionally designed blog application built with Next.js 14, featuring Server-Side Rendering (SSR), modern animations, and a beautiful responsive UI with Tailwind CSS.
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-18.3-blue?style=for-the-badge&logo=react)
@@ -21,7 +21,16 @@ A full-fledged, modern blog application built with Next.js 14, featuring Server-
 - **Error Boundaries** - Graceful error handling with user-friendly error pages
 - **SEO Optimized** - Automatic sitemap generation and robots.txt configuration
 
-### 🎨 Design & Accessibility
+### 🎨 Design & UI
+- **Animated Hero Section** - Eye-catching hero with gradient animations and floating elements
+- **Enhanced Blog Cards** - Interactive cards with smooth hover effects and transitions
+- **Sticky Navigation** - Header with backdrop blur and scroll effects
+- **Newsletter Component** - Functional newsletter subscription with validation
+- **Share Buttons** - Social media sharing on blog posts (Twitter, Facebook, LinkedIn)
+- **Professional Footer** - Comprehensive footer with social links and navigation
+- **Smooth Animations** - Fade-in, slide-up, and gradient animations throughout
+- **Modern Typography** - Beautiful font hierarchy and first-letter styling
+- **Glass Morphism** - Backdrop blur effects and translucent elements
 - **Tailwind CSS** - Utility-first styling with custom theme configuration
 - **Semantic HTML** - Proper HTML5 semantic elements for better structure
 - **ARIA Labels** - Comprehensive accessibility attributes for screen readers
